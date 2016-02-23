@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ivstiuvstrogiep00troggoog/ivstiuvstrogiep00troggoog_0616.png"; bbox 0 0 515 1004; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 96 634 329 655">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 96 634 329 655">
+     <span class='ocr_line' id='line_1_1' title="bbox 96 634 329 655; baseline 0.004 -7"><span class='ocrx_word' id='word_1_1' title='bbox 96 640 120 655; x_wconf 74' lang='lat' dir='ltr'>gn</span> <span class='ocrx_word' id='word_1_2' title='bbox 121 640 140 649; x_wconf 83' lang='lat' dir='ltr'>un</span> <span class='ocrx_word' id='word_1_3' title='bbox 145 635 169 649; x_wconf 70' lang='lat' dir='ltr'>vo·</span> <span class='ocrx_word' id='word_1_4' title='bbox 163 638 198 652; x_wconf 67' lang='lat' dir='ltr'>unt,</span> <span class='ocrx_word' id='word_1_5' title='bbox 205 635 265 655; x_wconf 63' lang='lat' dir='ltr'>perfiqui</span> <span class='ocrx_word' id='word_1_6' title='bbox 274 634 329 649; x_wconf 53' lang='lat' dir='ltr'>dese&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 75 648 346 698">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 75 648 346 698">
+     <span class='ocr_line' id='line_1_2' title="bbox 75 648 346 677; baseline 0.011 -7"><span class='ocrx_word' id='word_1_7' title='bbox 75 660 85 677; x_wconf 67' lang='grc' dir='ltr'><strong>ς</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 95 648 145 671; x_wconf 60' lang='lat' dir='ltr'>{odem</span> <span class='ocrx_word' id='word_1_9' title='bbox 148 660 210 676; x_wconf 70' lang='lat' dir='ltr'>tempure</span> <span class='ocrx_word' id='word_1_10' title='bbox 214 656 260 672; x_wconf 64' lang='lat' dir='ltr'>emm</span> <span class='ocrx_word' id='word_1_11' title='bbox 263 655 346 673; x_wconf 57' lang='lat' dir='ltr'>Tm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 96 673 346 698; baseline 0.008 -5"><span class='ocrx_word' id='word_1_12' title='bbox 96 678 197 693; x_wconf 63' lang='lat' dir='ltr'>marianam</span> <span class='ocrx_word' id='word_1_13' title='bbox 201 673 288 698; x_wconf 56' lang='lat' dir='ltr'>mat-nnc,</span> <span class='ocrx_word' id='word_1_14' title='bbox 294 674 346 695; x_wconf 62' lang='lat' dir='ltr'>de&#39;fflo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 44 94 478 852">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 44 94 478 852">
+     <span class='ocr_line' id='line_1_4' title="bbox 44 94 478 852; baseline 0 152"><span class='ocrx_word' id='word_1_15' title='bbox 44 94 478 852; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
